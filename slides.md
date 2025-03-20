@@ -233,10 +233,13 @@ transition: slide-left
 # Exercise
 (remainder of time)  
 
+- Challenge: Weather App
 - Practice fetching from the following APIs (some of these may inspire you for Assignment 2)
    - https://deckofcardsapi.com/
    - https://opentdb.com/api_config.php
    - https://restcountries.com/ (combine these with leaflet map to make a game)
+   - https://randomuser.me/
+   - https://github.com/public-apis/public-apis
 
 <!--
 -->
