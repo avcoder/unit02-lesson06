@@ -246,5 +246,4 @@ transition: slide-left
 # Group Exercise / homework:
 Describe in pseudocode (English words) all the things you need to do in JavaScript to make this happen
 
-
 <img src="/assets/weather.png" alt="weather app" style="height: 400px">
