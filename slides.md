@@ -42,6 +42,7 @@ transition: slide-left
 
 - recall functions input and output, callbacks (ex: in setTimeout)
 - Challenge: use `contenteditable` on an h1 allowing text to be edited, then listen for appropriate event once text update is done 
+- Challenge: create a todo list
 
 <style>
 h1 {
