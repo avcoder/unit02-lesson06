@@ -233,12 +233,12 @@ transition: slide-left
 # Exercise
 (remainder of time)  
 
-- How to use `throw` statements for error handling
-- How to use `try...catch` statements to have a default function in case of errors
+- Practice fetching from the following APIs (some of these may inspire you for Assignment 2)
+   - https://deckofcardsapi.com/
+   - https://opentdb.com/api_config.php
+   - https://restcountries.com/ (combine these with leaflet map to make a game)
 
 <!--
-- errors can occur because invalid input, failed network requests, or the unexpected 
-- good to be graceful in error handling, ensuring app doesnt crash
 -->
 
 
@@ -247,10 +247,7 @@ transition: slide-left
 ---
 
 ## For homework:
-- Practice fetching from the following APIs (some of these may inspire you for Assignment 2)
-   - https://deckofcardsapi.com/
-   - https://opentdb.com/api_config.php
-   - https://restcountries.com/ (combine these with leaflet map to make a game)
+
 - Continue doing daily JS exercises on [FreeCodeCamp - JS Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 - Create a [Postman](https://www.postman.com/) account and download it
 
