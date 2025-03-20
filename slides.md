@@ -38,11 +38,10 @@ transition: slide-left
 ---
 
 # Recap
-(20 min) 
+(15 min) 
 
 - recall functions input and output, callbacks (ex: in setTimeout)
 - Challenge: use `contenteditable` on an h1 allowing text to be edited, then listen for appropriate event once text update is done 
-- Event Delegation
 
 <style>
 h1 {
@@ -158,6 +157,7 @@ transition: slide-left
 - Asynchronous functions
    - Create previous 3 functions but make them asynchronous
    - Show the time it takes overall
+- Challenge: Yes/No Api
 
 ```js
 function puzzle3() {
@@ -177,6 +177,7 @@ puzzle3();
 
 
 <!--
+- demo yes no api using Promises, then async/await
 -->
 
 
@@ -200,9 +201,8 @@ class: text-left
 - ☎️ [Callbacks](https://www.w3schools.com/js/js_callback.asp)
 - 🥞 [Call Stack](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
 - 📊 [Web Almanac - state of JS](https://almanac.httparchive.org/en/2024/javascript?utm_source=convertkit&utm_medium=email&utm_campaign=Syntax%20Snack%20Pack:%20React%20Trends%20in%202025%20-%2016985243)
-<br>
+- 🌮 [Event Delegation](https://www.youtube.com/watch?v=YL1F4dCUlLc)
 <hr>
-<br>
 
 - 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
 - ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
@@ -216,20 +216,41 @@ transition: slide-left
 ---
 
 # Handling errors
-(20 mins)  How to code for exception handling
+(15 mins)  How to code for exception handling
 
 - How to use `throw` statements for error handling
 - How to use `try...catch` statements to have a default function in case of errors
 
 <!--
+- errors can occur because invalid input, failed network requests, or the unexpected 
+- good to be graceful in error handling, ensuring app doesnt crash
 -->
 
 ---
 transition: slide-left
 ---
 
-## For homework:
+# Exercise
+(remainder of time)  
 
+- How to use `throw` statements for error handling
+- How to use `try...catch` statements to have a default function in case of errors
+
+<!--
+- errors can occur because invalid input, failed network requests, or the unexpected 
+- good to be graceful in error handling, ensuring app doesnt crash
+-->
+
+
+---
+transition: slide-left
+---
+
+## For homework:
+- Practice fetching from the following APIs (some of these may inspire you for Assignment 2)
+   - https://deckofcardsapi.com/
+   - https://opentdb.com/api_config.php
+   - https://restcountries.com/ (combine these with leaflet map to make a game)
 - Continue doing daily JS exercises on [FreeCodeCamp - JS Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 - Create a [Postman](https://www.postman.com/) account and download it
 
