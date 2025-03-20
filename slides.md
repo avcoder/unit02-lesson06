@@ -240,6 +240,7 @@ transition: slide-left
    - https://restcountries.com/ (combine these with leaflet map to make a game)
    - https://randomuser.me/
    - https://github.com/public-apis/public-apis
+   - Continue with your weather API but incorporate https://erikflowers.github.io/weather-icons/
 
 <!--
 -->
@@ -250,10 +251,6 @@ transition: slide-left
 ---
 
 ## For homework:
+Emulate this
 
-- Continue doing daily JS exercises on [FreeCodeCamp - JS Algorithms & Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-- Create a [Postman](https://www.postman.com/) account and download it
-
-<!--
-- take attendance
--->
+<img src="/assets/weather.png" alt="weather app">
