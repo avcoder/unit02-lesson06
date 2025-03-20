@@ -234,13 +234,7 @@ transition: slide-left
 (remainder of time)  
 
 - Challenge: Weather App
-- Practice fetching from the following APIs (some of these may inspire you for Assignment 2)
-   - https://deckofcardsapi.com/
-   - https://opentdb.com/api_config.php
-   - https://restcountries.com/ (combine these with leaflet map to make a game)
-   - https://randomuser.me/
-   - https://github.com/public-apis/public-apis
-   - Continue with your weather API but incorporate https://erikflowers.github.io/weather-icons/
+- Goto: https://www.weatherapi.com/api-explorer.aspx#forecast
 
 <!--
 -->
@@ -249,8 +243,8 @@ transition: slide-left
 ---
 transition: slide-left
 ---
+# Group Exercise / homework:
+Describe in pseudocode (English words) all the things you need to do in JavaScript to make this happen
 
-## For homework:
-Emulate this
 
-<img src="/assets/weather.png" alt="weather app">
+<img src="/assets/weather.png" alt="weather app" style="height: 400px">
